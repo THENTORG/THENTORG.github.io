@@ -1,0 +1,21 @@
+Copy this exact code when doing a blog entry:
+
+
+
+
+<div class="blog-item">
+                        <!-- <img class="img-responsive img-blog" src="images/blog/blog2.jpg" width="100%" alt="" /> -->
+                        <div class="blog-content">
+                            <a href="#"><h3>More Changes to THENTORG</h3></a>
+                            <div class="entry-meta">
+                                <span><i class="icon-user"></i> <a href="about-us.html">Tristan</a></span>
+                                <!-- <span><i class="icon-folder-close"></i> <a href="#">Bootstrap</a></span> -->
+                                <span><i class="icon-calendar"></i> 17 June, 2014</span>
+                                <span><i class="icon-comment"></i> <a href="blog-item.html#comments">0 Comments</a></span>
+                            </div>
+                            <p>More changes have been made today to the THENTORG website. The ultimate goal is to make this website look at it's best 
+							and be a complete one stop place for all things THENTORG. Most of all, we would like to make this website easy to use. 
+							How we are going to do that is a perpetual challenge, but we shall eventually figure it out.</p>
+                            <!-- <a class="btn btn-default" href="blog-item.html">Read More <i class="icon-angle-right"></i></a> -->
+                        </div>
+                    </div><!--/.blog-item-->
